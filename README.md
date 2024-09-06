@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Salah Kanjo.
 
-I'm currently a Computer Science student :student: in my final year at the Technical University of Hamburg (TUHH). Throughout my studies, I have gained a solid foundation in several areas of computer science, including:
+I'm currently a computer science student :student: in my final year at the Technical University of Hamburg (TUHH). Throughout my studies, I have gained a solid foundation in several areas of computer science, including:
 
   - :triangular_ruler: Strong mathematical concepts 
   - :computer: Procedural, object-oriented, and functional programming languages

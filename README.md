@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Salah Kanjo.
 
-I'm currently a **Computer Science student** :student: in my final year at the Technical University of Hamburg (TUHH). Throughout my studies, I have gained a solid foundation in several areas of computer science, including:
+I'm currently a Computer Science student :student: in my final year at the Technical University of Hamburg (TUHH). Throughout my studies, I have gained a solid foundation in several areas of computer science, including:
 
   - :triangular_ruler: Strong mathematical concepts 
   - :computer: Procedural, object-oriented, and functional programming languages
@@ -37,18 +37,3 @@ I am particularly passionate about software development and have a growing inter
 ## How ro reach me :smiley:
 - **E-Mail**: [contact@salah-kanjo.com](mailto:contact@salah-kanjo.com)
 - **LinkedIn**: [linkedin.com/in/salah-kanjo](https://www.linkedin.com/in/salah-kanjo-151434208/)
-
-<!--
-**SalahKanjo/SalahKanjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -32,7 +32,7 @@ I am particularly passionate about software development and have a growing inter
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Doxygen](https://img.shields.io/badge/-Doxygen-21759B?style=flat&logo=doxygen&logoColor=white)
-
+![Arduino](https://img.shields.io/badge/-Arduino-21759B?style=flat&logo=Arduino&logoColor=green)
 
 ## How ro reach me :smiley:
 - **E-Mail**: [contact@salah-kanjo.com](mailto:contact@salah-kanjo.com)

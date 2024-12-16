@@ -34,6 +34,6 @@ I am particularly passionate about software development and have a growing inter
 ![Doxygen](https://img.shields.io/badge/-Doxygen-21759B?style=flat&logo=doxygen&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-21759B?style=flat&logo=Arduino&logoColor=green)
 
-## How ro reach me :smiley:
+## How to reach me :smiley:
 - **E-Mail**: [contact@salah-kanjo.com](mailto:contact@salah-kanjo.com)
 - **LinkedIn**: [linkedin.com/in/salah-kanjo](https://www.linkedin.com/in/salah-kanjo-151434208/)

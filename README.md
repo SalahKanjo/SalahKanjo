@@ -36,4 +36,4 @@ I am particularly passionate about software development and have a growing inter
 
 ## How to reach me :smiley:
 - **E-Mail**: [contact@salah-kanjo.com](mailto:contact@salah-kanjo.com)
-- **LinkedIn**: [linkedin.com/in/salah-kanjo](https://www.linkedin.com/in/salah-kanjo-151434208/)
+- **LinkedIn**: [linkedin.com/in/salahkanjo](https://www.linkedin.com/in/salahkanjo)

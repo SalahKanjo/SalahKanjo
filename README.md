@@ -1,15 +1,18 @@
-## Hi there 👋, I'm Salah Kanjo.
+## Hi there 👋, I'm Salah Kanjo
 
-I'm currently pursuing a Master’s degree in Computer Science at the Technical University of Hamburg (TUHH), after completing my Bachelor’s degree. Throughout my studies, I have built a strong foundation in several areas of computer science, including:
+I'm currently pursuing a Master’s degree in Computer Science at the Hamburg University of Technology (TUHH), after completing my Bachelor's degree in Computer Science.
 
-  - :triangular_ruler: Strong mathematical concepts 
-  - :computer: Procedural, object-oriented, and functional programming languages
-  - :1234: Algorithms and data structures
-  - :globe_with_meridians: Network and internet security
-  - :hammer_and_wrench: Software engineering principles, database, and more.
+I’m particularly interested in Data Engineering, Cloud Technologies, Software Development, and AI-driven applications. Through academic projects and practical experience in IT consulting, I have worked on topics such as data processing, API integrations, workflow automation, and cloud-based application deployment.
 
-I am particularly passionate about software development and have a growing interest in Machine Learning and Artificial Intelligence. I'm always eager to learn more and excited to collaborate on diverse and innovative projects.
+### 💡 Areas of Interest
+- Data Engineering & Data Platforms
+- Cloud Technologies & Containerization
+- Backend Development & APIs
+- Workflow Automation
+- Machine Learning & AI Applications
+
 <br>
+
 ## Programming Languages 🚀
 <table>
   <tr>
@@ -21,19 +24,22 @@ I am particularly passionate about software development and have a growing inter
   </tr>
 </table>
 
-## Tools and Libraries 🔥
-![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+## Technologies & Tools 🔥
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![Doxygen](https://img.shields.io/badge/-Doxygen-21759B?style=flat&logo=doxygen&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-21759B?style=flat&logo=Arduino&logoColor=green)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
-## How to reach me :smiley:
+## How to reach me 📫
 - **E-Mail**: [contact@salah-kanjo.com](mailto:contact@salah-kanjo.com)
 - **LinkedIn**: [linkedin.com/in/salahkanjo](https://www.linkedin.com/in/salahkanjo)
